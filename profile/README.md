@@ -1,3 +1,3 @@
 # nlibs
 
-collection of nodejs module focused on simplicity
+collection of nodejs libraries focused on simplicity
